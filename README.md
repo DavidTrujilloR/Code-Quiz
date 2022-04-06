@@ -11,4 +11,4 @@ This is a timed coding quiz with multiple-choice question about JavaScript funda
 ![Image 3](./images/Sin%20título%203.png)
 ## Page Link 
 
-[Page link]())
+[Page link](https://davidtrujillor.github.io/Code-Quiz/)
