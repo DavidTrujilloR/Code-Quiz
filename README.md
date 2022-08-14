@@ -4,11 +4,13 @@
 This is a timed coding quiz with multiple-choice question about JavaScript fundamentals that store high scores.
 ## Screenshots
 
-![Screenshot of the final result of the page](./images/Sin%20título.png)
+![Screenshot of the final result of the page](./assets/images/page.png)
 
-![Image 2](./images/Sin%20título%202.png)
+![Image 2](./assets/images/page-2.png)
 
-![Image 3](./images/Sin%20título%203.png)
+![Image 3](./assets/images/page-3.png)
+
+![Image 4](./assets/images/page-4.png)
 ## Page Link 
 
 [Page link](https://davidtrujillor.github.io/Code-Quiz/)
